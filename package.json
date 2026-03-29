@@ -1,0 +1,17 @@
+{
+  "name": "backend_project",
+  "version": "1.0.0",
+  "description": "A Backend Project",
+  "keywords": [
+    "javascript",
+    "backend",
+    "gogo"
+  ],
+  "license": "ISC",
+  "author": "Divyansh kolariya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
